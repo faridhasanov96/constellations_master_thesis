@@ -1,0 +1,1 @@
+This repo stores code for reproduction of the Master's Thesis in Computer Science 'Iterative versus amortized inference solutions to the constellations problem' by Farid Hasanov, written at the University of Tartu in Spring, 2022. 
